@@ -1,0 +1,46 @@
+
+
+h1 {
+  color:#CC5500;
+  
+  font-size: 50px;
+  font-style: inherit;
+  font-weight: bold;
+  line-height: 115%;
+  font-family: Tohama;
+  
+  text-decoration:underline; 
+}
+
+
+body {
+	background:url(Image1.png) 	fixed no-repeat center 0;
+	text-align: center;
+}
+
+p {
+	font-size: 30px;
+	font-style: inherit;
+	font-weight: normal;
+	line-height: 115%;
+	font-family: Arial;
+}
+
+.ennonce{
+	color: #FFCB60;
+	display: block;
+	border-left-color:#FFCB60;
+	border-left-style: solid;
+	border-width: 5px;
+  
+    padding: 5px;
+    margin-top: 270px;
+    margin-left: 28%;
+	margin-right: 28%;
+}
+
+.lienCacher{
+	color: #FFCB60;
+	text-decoration: inherit;
+	font-weight: bold;
+}

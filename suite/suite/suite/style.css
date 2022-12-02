@@ -1,0 +1,28 @@
+h1 {
+  color: #C2F732;
+  
+  font-size: 60px;
+  font-style: inherit;
+  font-weight: bold;
+  line-height: 115%;
+  font-family: Tohama;
+}
+
+h2 {
+	color: #C2F732;
+  
+  font-size: 45px;
+  font-style: inherit;
+  font-family: Tohama;
+}
+
+p {
+	color:#C2F732;
+	
+	font-size: 25px;
+	font-style: inherit;
+	font-weight: normal;
+	line-height: 115%;
+	font-family: Arial;
+	position: center;
+}

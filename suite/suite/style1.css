@@ -1,0 +1,61 @@
+body {
+	background:url(Argent.png) fixed no-repeat center 150px;
+	text-align: center;
+}
+
+h1 {
+  color: #EE1010;
+  
+  font-size: 60px;
+  font-style: inherit;
+  font-weight: bold;
+  line-height: 115%;
+  font-family: Tohama;
+}
+
+p {
+	color:#007FFF;
+	
+	font-size: 25px;
+	font-style: inherit;
+	font-weight: normal;
+	line-height: 115%;
+	font-family: Arial;
+}
+
+.lienCacher {
+	
+	color:#000000;
+	display: block;
+	font-size: 15px;
+	text-decoration: inherit;
+	padding: center;
+	
+	margin-top: 410px;
+	margin-left: 32%;
+	margin-right: 67%;
+	margin-bottom: 0px;
+	
+	border-style:solid;
+	border-width: 5px;
+	border-color: red;
+}
+
+
+.menace{
+	color: #EE1010;
+	font-size: 40px;
+	position: center 160px;
+}
+
+.ennonce{
+	color: #FFCB60;
+	display: block;
+	border-left-color:#FFCB60;
+	border-left-style: solid;
+	border-width: 5px;
+	
+    margin-top: 50px;
+    margin-left: 30%;
+	margin-right: 30%;
+}

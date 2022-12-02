@@ -1,0 +1,116 @@
+body {
+	background:url(Chambre.jpg) fixed no-repeat center 160px;
+	text-align: center;
+}
+
+h1 {
+  color:#9EFD38;
+  
+  font-size: 50px;
+  font-style: inherit;
+  font-weight: bold;
+  line-height: 115%;
+  font-family: Tohama;
+  
+  text-decoration:underline; 
+}
+
+p {
+	color:#007FFF;
+	
+	font-size: 25px;
+	font-style: inherit;
+	font-weight: normal;
+	line-height: 115%;
+	font-family: Arial;
+}
+
+img {
+	height: 540px;
+	width: 960px;
+	
+}
+
+.lienCacher {
+	
+	color:#000000;
+	display: block;
+	font-size: 15px;
+	text-decoration: inherit;
+	padding: center;
+	
+	margin-top: 250px;
+	margin-left: 52%;
+	margin-right: 47%;
+	margin-bottom: 0px;
+}
+
+
+
+.lienCacher1 {
+	
+	color:#000000;
+	display: block;
+	font-size: 15px;
+	text-decoration: inherit;
+	
+	margin-top: 510px;
+	margin-left: 58%;
+	margin-right: 40%;
+	margin-bottom: 0px;
+}
+
+.lienCacher2 {
+	
+	color:#000000;
+	display: block;
+	font-size: 15px;
+	text-decoration: inherit;
+	
+	margin-top: 350px;
+	margin-left: 71%;
+	margin-right: 27%;
+	padding-top: 20px;
+}
+
+.menace{
+	color: #EE1010;
+	position: center 160px;
+}
+
+.ennonce{
+	color: #FFCB60;
+	display: block;
+	border-left-color:#FFCB60;
+	border-left-style: solid;
+	border-width: 5px;
+  
+    padding: 5px;
+    margin-top: 130px;
+    margin-left: 28%;
+	margin-right: 28%;
+}
+
+.ennonce1{
+	color: #FFCB60;
+	display: block;
+	border-left-color:#FFCB60;
+	border-left-style: solid;
+	border-width: 5px;
+  
+    margin-top: 80px;
+    margin-left: 28%;
+	margin-right: 28%;
+}
+
+.ennonce2{
+	color: #FFCB60;
+	display: block;
+	border-left-color:#FFCB60;
+	border-left-style: solid;
+	border-width: 5px;
+  
+    margin-top: 180px;
+    margin-left: 28%;
+	margin-right: 28%;
+}
